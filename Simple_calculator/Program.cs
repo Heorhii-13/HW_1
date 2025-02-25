@@ -1,6 +1,6 @@
 ﻿using System;
 
-abstract class Simple_calculator
+class Simple_calculator
 {
     static void Main()
     {
