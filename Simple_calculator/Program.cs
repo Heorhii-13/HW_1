@@ -7,7 +7,7 @@ abstract class Simple_calculator
         Console.Write("Enter the first number: ");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("choose operator(+, -, *, /): ");
+        Console.Write("choose operator: (+, -, *, /): ");
         char op;
         op = Convert.ToChar(Console.ReadLine());
 
